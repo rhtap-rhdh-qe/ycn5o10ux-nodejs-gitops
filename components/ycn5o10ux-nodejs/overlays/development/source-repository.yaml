@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ycn5o10ux-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ycn5o10ux-nodejs
